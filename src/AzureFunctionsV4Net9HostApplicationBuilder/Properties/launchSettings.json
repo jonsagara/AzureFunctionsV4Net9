@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "AzureFunctionsV4Net9HostApplicationBuilder": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7163",
+      "environmentVariables": {
+        "AZURE_FUNCTIONS_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
