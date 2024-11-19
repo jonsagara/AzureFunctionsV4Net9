@@ -117,3 +117,4 @@ For detailed output, run func with --verbose flag.
 - Azure Functions v4
 - Azure Functions Worker SDKs 2.0
 - Azure Functions Worker Runtime: dotnet-isolated
+- Azure Functions Core Tools 4.0.6610
